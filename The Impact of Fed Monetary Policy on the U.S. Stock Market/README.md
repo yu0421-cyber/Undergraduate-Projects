@@ -1,5 +1,5 @@
 # The Impact of Fed Monetary Policy on the U.S. Stock Market
-a project from **Topics on International Trade and Finance**
+A project from **Topics on International Trade and Finance**
 
 **Project Overview**: This project examines the relationship between the U.S. monetary policy (Federal Funds Rate) and the stock market performance in the U.S. from 1990 to 2024.
 
